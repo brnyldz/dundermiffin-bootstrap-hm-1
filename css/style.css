@@ -1,0 +1,39 @@
+body {
+    
+    background-color: #a0a8c0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+   }
+   
+
+  
+  p {
+    /* Center horizontally*/
+    text-align: center;
+  }
+
+h1 {
+  color: royalblue;
+  font-size: 30px;
+}
+
+h2 {
+    color: darkgoldenrod;
+}
+
+h3 {
+
+    color: purple;
+}
+
+ul {
+    color: navy;
+    list-style-position: inside;
+  }
+
+
+p {
+    color: mediumslateblue;
+}

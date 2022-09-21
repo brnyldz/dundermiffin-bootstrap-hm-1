@@ -1,39 +1,23 @@
-body {
-    
-    background-color: #a0a8c0;
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Raleway', sans-serif;
-
-   }
-   
-
-  
-  p {
-    /* Center horizontally*/
-    text-align: center;
-  }
-
-h1 {
-  color: royalblue;
-  font-size: 30px;
+.body{
+  background-color:#E9ECEF;
 }
 
-h2 {
-    color: darkgoldenrod;
-}
-
-h3 {
-
-    color: purple;
-}
 
 ul {
-    color: navy;
-    list-style-position: inside;
-  }
+  list-style-position: inside;
+}
+
+.pill{
+  background-color: grey; 
+  color: white; 
+  font-size: 12px;
+  
+}
 
 
-p {
-    color: mediumslateblue;
+.font {
+  font-family: 'Indie Flower', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;
 }

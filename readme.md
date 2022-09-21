@@ -1,4 +1,4 @@
-# css-odev-1
+# bootstrap-odev-1
 
 
 dunder mifflin company - denemeler.
